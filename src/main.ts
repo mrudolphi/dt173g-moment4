@@ -1,3 +1,10 @@
+/*
+ * DT173G - Webbutveckling III
+ * Moment 4 - Typescript
+ * Maria Rudolphi
+ * 2018-10-03
+ */
+
 // declare require to use require in typescript
 declare function require(name:string);
 var fs = require('fs');
